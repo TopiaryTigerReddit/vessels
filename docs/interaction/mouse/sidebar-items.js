@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Action","A mouse state-change action"],["Button","A mouse button."]],"struct":[["Event","A mouse event."]],"trait":[["Mouse","An interaction event Source that represents a mouse."]]});

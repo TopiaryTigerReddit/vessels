@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Align","Specifices the alignment of text."],["Font","A font face."],["Origin","Specifies the origin of text."],["Weight","Specifies the weight of a font."],["Wrap","Specifies the type of text wrap used."]],"struct":[["Text","Provides an abstraction for representing text content."]]});

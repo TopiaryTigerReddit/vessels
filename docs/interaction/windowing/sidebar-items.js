@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Action","A window interaction."]],"struct":[["Event","A window event."]],"trait":[["Window","An interaction event Source that represents a window."]]});

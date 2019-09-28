@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["keyboard","Types to permit handling of keyboard interaction."],["mouse","Types to permit handling of mouse interaction."],["windowing","Types to permit handling of windowing."]],"trait":[["Event","A class of events."],["Input","A context that provides interaction handling functionality."],["Source","A source of interaction events."]]});
